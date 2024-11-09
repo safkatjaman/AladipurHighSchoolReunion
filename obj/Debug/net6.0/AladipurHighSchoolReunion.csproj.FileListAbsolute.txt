@@ -1,0 +1,15 @@
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\bin\Debug\net6.0\AladipurHighSchoolReunion.exe
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\bin\Debug\net6.0\AladipurHighSchoolReunion.deps.json
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\bin\Debug\net6.0\AladipurHighSchoolReunion.runtimeconfig.json
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\bin\Debug\net6.0\AladipurHighSchoolReunion.dll
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\bin\Debug\net6.0\AladipurHighSchoolReunion.pdb
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\AladipurHighSchoolReunion.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\AladipurHighSchoolReunion.AssemblyInfoInputs.cache
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\AladipurHighSchoolReunion.AssemblyInfo.cs
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\AladipurHighSchoolReunion.csproj.CoreCompileInputs.cache
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\AladipurHighSchoolReunion.sourcelink.json
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\AladipurHighSchoolReunion.dll
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\refint\AladipurHighSchoolReunion.dll
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\AladipurHighSchoolReunion.pdb
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\AladipurHighSchoolReunion.genruntimeconfig.cache
+E:\ASP.NET\ConfigurationProjectWithVS1\AladipurHighSchoolReunion\obj\Debug\net6.0\ref\AladipurHighSchoolReunion.dll
